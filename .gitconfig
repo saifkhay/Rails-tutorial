@@ -1,0 +1,15 @@
+[user]
+    name = SaifKhay
+    email = skhayoon@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+	default = matching
+[alias]
+	co = checkout
